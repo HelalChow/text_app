@@ -1,4 +1,4 @@
-# text_menu
+# text_app
 
 A small facility for making menus in a terminal.
 
